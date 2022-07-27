@@ -1,4 +1,4 @@
-<p align="center"><img width="360" height="auto" src="chaeng.gif" /></p>
+<p align="center"><img max-width"100%" width="auto" height="auto" src="chaeng.gif" /></p>
 
 <p align="center"><a href="https://oatlayers.wordpress.com">🌏 Website</a> • <a href="https://twitter.com/@oatlayers">🐦 Twitter</a> • <a href="https://www.instagram.com/oatlayers/">📸 Instagram</a></p>
 

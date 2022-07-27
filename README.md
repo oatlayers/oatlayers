@@ -4,6 +4,4 @@
 
 <h1 align="center">👋 Hi there! I'm Keanu.</h1>
 
-<p align="center">I love contributing to open source! I'm a computer science enthusiast. I specialize in NLP and open source projects. Currently learning ethical hacking and trying to become an <a href="https://www.indiehackers.com/">indie hacker.</a></p>
-
-
+<p align="center">I love contributing to open source! I'm a computer science and linux enthusiast. I specialize in NLP and open source projects. Currently learning ethical hacking and trying to become an <a href="https://www.indiehackers.com/">indie hacker.</a></p>
